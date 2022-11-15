@@ -1,2 +1,2 @@
 puts "Hello Jenkins"
-puts "Build success after install!!!"
+puts "Build success !!!"
